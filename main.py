@@ -6,7 +6,7 @@ from reportlab.pdfgen import canvas
 
 
 
-
+data = 'x'
 
 report_text = st.selectbox('כריכים :', ('חביתה', 'Tuna'))
 
